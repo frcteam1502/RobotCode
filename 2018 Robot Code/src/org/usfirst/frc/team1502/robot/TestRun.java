@@ -73,9 +73,9 @@ public class TestRun {
     	gameData = DriverStation.getInstance().getGameSpecificMessage();
     	
     	if (gameData.valueOf(0) == "L") {
-    		//Left plate code
+    		//Left
     	} else {
-    		//Right plate code
+    		//Right
     	}
     }
     
